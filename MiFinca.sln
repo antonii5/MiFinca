@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiFinca.Android", "MiFinca\MiFinca.Android\MiFinca.Android.csproj", "{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiFinca", "MiFinca\MiFinca\MiFinca.csproj", "{2D448F11-7BE8-4330-B628-F18EB74AB3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CB9585-11A1-4538-A242-3EF1EBC3AF12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2D448F11-7BE8-4330-B628-F18EB74AB3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D448F11-7BE8-4330-B628-F18EB74AB3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D448F11-7BE8-4330-B628-F18EB74AB3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D448F11-7BE8-4330-B628-F18EB74AB3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373F9F23-E56B-417C-BF93-669896BD5E3F}
+	EndGlobalSection
+EndGlobal

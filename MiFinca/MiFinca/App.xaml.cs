@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MiFinca.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +13,10 @@ namespace MiFinca
 		public App ()
 		{
 			InitializeComponent();
+            Current = this;
 
-			MainPage = new MiFinca.MainPage();
-		}
+            MainPage = new MapView();
+        }
 
 		protected override void OnStart ()
 		{
@@ -30,5 +32,6 @@ namespace MiFinca
 		{
 			// Handle when your app resumes
 		}
-	}
+
+    }
 }

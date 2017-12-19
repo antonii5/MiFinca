@@ -1,4 +1,0 @@
-C:\Users\Antoni\.nuget\packages\xamarin.forms\2.5.0.121934\lib\MonoAndroid10\FormsViewGroup.dll
-C:\Users\Antoni\.nuget\packages\xamarin.forms\2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-C:\Users\Antoni\.nuget\packages\xamarin.forms\2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-C:\Users\Antoni\.nuget\packages\xamarin.forms\2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
